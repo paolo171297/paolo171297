@@ -1,15 +1,32 @@
-# Paolo D'Attolico
+# Hi, I'm Paolo D'Attolico 👋
 
-Studente di Matematica presso l'Università degli Studi di Bari Aldo Moro.
+Mathematics student at **Università degli Studi di Bari Aldo Moro** with a strong interest in technology, data, and analytical problem-solving.
 
-Raccolta di script di calcolo, progetti software personali e modelli CAD 3D.
+My academic background has taught me to approach complex problems in a structured and logical way. Alongside my university studies, I independently develop practical skills in **SQL**, **Python**, and **Snowflake**, with experience in **MATLAB** and **SageMath**.
 
 ---
 
-### 🛠️ Ambiti di interesse & Tools
-* **Matematica & Calcolo:** Python, C++
-* **3D Design:** Modelli CAD, Stampa 3D (FDM / Resina)
+### 🛠️ Tech Stack & Skills
 
+- **Languages & Tools:** Python, SQL, C++, MATLAB, SageMath, Dart
+- **Data & Cloud:** Snowflake, Data Warehousing Essentials
+- **Frameworks & Networks:** Flutter, Cisco CCNA Labs
 
-### 📱 I miei Progetti
-* 🎯 [Intesa Vincente - App Android](https://github.com/paolo171297/intesa-vincente-flutter): Gioco mobile di associazione parole sviluppato in Flutter e Dart.
+---
+
+### 📂 Featured Repositories
+
+- 🥤 **[melanies_smoothies](https://github.com/paolo171297/melanies_smoothies)**  
+  Web version of a smoothie ordering application developed in Python on Snowflake for Badge 3 Workshop
+- 🎯 **[intesa-vincente-flutter](https://github.com/paolo171297/intesa-vincente-flutter)**  
+  Mobile word-association game app built with Flutter and Dart.
+- 🌐 **[ccna-labs](https://github.com/paolo171297/ccna-labs)**  
+  Network labs, Packet Tracer exercises, and notes for Cisco CCNA certification preparation.
+
+---
+
+### 🎯 Current Focus & Goals
+
+I am currently looking for an **internship opportunity** where I can gain my first professional experience, contribute to real data and tech projects, and continue developing my analytical skills.
+
+📫 **Connect with me:** [LinkedIn]([https://www.linkedin.com/in/paolo-d-attolico/](https://www.linkedin.com/in/paolo-d-attolico-16733b2bb/))
