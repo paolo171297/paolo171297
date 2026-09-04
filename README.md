@@ -29,12 +29,6 @@ My academic background has taught me to approach complex problems in a structure
 
 I am currently looking for an **internship opportunity** where I can gain my first professional experience, contribute to real data and tech projects, and continue developing my analytical skills.
 
----
-
-### 🎯 Current Focus & Goals
-
-I am currently looking for an **internship opportunity** where I can gain my first professional experience, contribute to real data and tech projects, and continue developing my analytical skills.
-
 <br>
 
 [![Download PDF](https://img.shields.io/badge/View_CV-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/paolo171297/paolo171297/blob/main/CV_Paolo_DAttolico.pdf)
