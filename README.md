@@ -38,4 +38,4 @@ I am currently looking for an **internship opportunity** where I can gain my fir
 <br>
 
 [![View CV](https://img.shields.io/badge/View_CV-2563EB?style=flat-square&logo=adobeacrobatreader&logoColor=white)](https://github.com/paolo171297/paolo171297/blob/main/CV_Paolo_DAttolico.pdf)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-d-attolico-16733b2bb/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-d-attolico-16733b2bb/)
