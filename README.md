@@ -35,6 +35,7 @@ I am currently looking for an **internship opportunity** where I can gain my fir
 
 I am currently looking for an **internship opportunity** where I can gain my first professional experience, contribute to real data and tech projects, and continue developing my analytical skills.
 
-📫 **Connect with me:**
-- 📄 **[Download CV (PDF)](https://github.com/paolo171297/paolo171297/blob/main/CV_Paolo_DAttolico.pdf)**
-- 💼 **[LinkedIn](https://www.linkedin.com/in/paolo-d-attolico-16733b2bb/)**
+<br>
+
+[![Download PDF](https://img.shields.io/badge/Download_CV-PDF-red?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](https://github.com/paolo171297/paolo171297/blob/main/CV_Paolo_DAttolico.pdf)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/paolo-d-attolico-16733b2bb/)
