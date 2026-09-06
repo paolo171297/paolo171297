@@ -8,9 +8,11 @@ My academic background has taught me to approach complex problems in a structure
 
 ### 🛠️ Tech Stack & Skills
 
-- **Languages & Tools:** Python, SQL, C++, MATLAB, SageMath, Dart
-- **Data & Cloud:** Snowflake, Data Warehousing Essentials
-- **Frameworks & Networks:** Flutter, Cisco CCNA Labs
+- **Programming & Analysis:** Python, SQL, MATLAB, SageMath, Dart
+- **Data & Cloud:** Snowflake, Power BI
+- **Web & Markup:** HTML, LaTeX
+- **Frameworks & Tools:** Flutter, PyCharm, GitHub, VS Code
+- **Environments:** Windows, Linux, Microsoft Entra
 
 ---
 
